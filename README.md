@@ -17,6 +17,7 @@ ball is instanced at start of level by pressing space bar
 
 ## References
 Font sourced from https://fonts.google.com/specimen/Indie+Flower#license
+all other resources created by me in PhotoShop, Logic Pro X or PixelStudio
 
 ## Future Development
 May add more levels 
