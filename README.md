@@ -4,10 +4,15 @@ Completed and pushed to GitHub on October 11, 2020
 
 ## Implementation
 Blocks Fall using 'Tween' node at beginning of level
+
 Balls are added as score increases
+
 Music is added and changed as score increases
+
 Bounce Sound Effect for Ball on collision
+
 'pop' animation when brick breaks
+
 ball is instanced at start of level by pressing space bar
 
 ## References
